@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: >-
+    c:\Users\BIZZ\Documents\Embedded
+    software\stm32f1\YF_STM32_ALPHA\PID\PID_speed_control\out\PID_SPEED\Target_1
+  Add: []

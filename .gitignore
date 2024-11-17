@@ -1,0 +1,12 @@
+.vscode
+DebugConfig/
+Listings/
+Objects/
+out/
+RTE/
+tmp/
+*.yml
+*uvguix.BIZZ
+*.sct
+*.scvd
+uv2csolution.log
